@@ -1,0 +1,12 @@
+# Secrets
+.env
+.env.prod
+
+# Builds
+dist
+
+# Dependencies
+node_modules
+
+# Prisma
+prisma/migrations
